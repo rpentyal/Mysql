@@ -1,3 +1,4 @@
+Authors: Veeksha Pentyala , Cherishya Pentyala
 # https://github.com/docker-library/mysql
 
 ## Maintained by: [the Docker Community and the MySQL Team](https://github.com/docker-library/mysql)
